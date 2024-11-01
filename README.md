@@ -40,5 +40,4 @@ Insights:
 5. **Booking Trends**: May records the highest number of checked-out bookings.
 6. **Cancellation Rates**: Bangalore experiences a higher cancellation rate compared to Delhi and Mumbai.
 7. **Customer Ratings**: Delhi achieves the highest customer ratings compared to Hyderabad, Mumbai, and Bangalore.
-8. **Realization Rate**: July boasts the highest realization percentage, indicating strong performance during that month. 
 
